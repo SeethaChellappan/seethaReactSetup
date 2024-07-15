@@ -3,7 +3,7 @@ import './App.scss';
 
 const App = () =>
 	<div className="App">
-		Ready to start.
+		Seetha
 	</div>;
 
 export default App;
