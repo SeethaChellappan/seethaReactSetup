@@ -3,7 +3,7 @@ import './App.scss';
 
 const App = () =>
 	<div className="App">
-		Seetha
+		bharathi
 	</div>;
 
 export default App;
